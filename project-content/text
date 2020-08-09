@@ -1,0 +1,149 @@
+
+    *** The WebShala ***
+
+ --- Contents (Personal Portfolio Template) ---
+
+1. Aside Navbar
+
+    - logo
+
+      Nav       
+    - icon (fa fa-home) font Awesome Icon         Home
+    - icon (fa fa-user) font Awesome Icon         About
+    - icon (fa fa-list) font Awesome Icon         Service
+    - icon (fa fa-briefcase) font Awesome Icon    Portfolio
+    - icon (fa fa-envelope) font Awesome Icon     Projects
+    - icon (fa fa-comments) font Awesome Icon     Contact
+
+    - copyright text
+
+1. Home Section
+
+    - Photo
+    - Krunal Suthar
+    - Flutter Developer || AI-CV Enthusiast
+    
+      Social Links
+    - icon (fa fa-twitter) font Awesome Icon 
+    - icon (fa fa-github) font Awesome Icon 
+    - icon (fa fa-instagram) font Awesome Icon 
+    - icon (fa fa-linkedin) font Awesome Icon 
+
+2. About Me
+   
+   - About Me
+   - I'm Krunal Suthar and Flutter Developer
+   - Being an IT student love to learn new technologies and curious about it. Currently flirting with flutter. Enthuastic for AI and Computer Vision.
+     I have acquired the skills and knowledge necessary to make your project a success and enjoy every step of the development process, 
+     from discussion and collaboration with a cup of TEA.
+     
+     Personal-info
+   - Birthday : 12th Sept 2001
+   - Age : 18
+   - Website : 
+   - Email : krunalsuthar345@gmail.com
+   - Degree : B.Tech
+   - Phone : +91 7046554565
+   - City : Anand
+   - Freelance : Available
+
+     Button
+   - Downolad CV, Hire Me
+
+     Skills
+   - Python 76%
+   - Flutter & Dart 90%
+   - HTML,CSS 80%
+   - JavaScript 60%
+
+     Education
+   - 2019 - 2023
+   - B.Tech ( Information Technology )
+   - Persuing My Bachelor of technology Degree at Charotar University of science and Technology in IT Field.
+
+   - 2017 - 2019
+   - Science With PCM
+   - Studied at Jay Jalaram International School in Science stream with PCM Subjects.
+   
+
+     Experience
+   - 05/20 - 07/20
+   - Verzeo Trainee internship 
+   - In this pandemic of COVID-19 I've applied for Verzeo Machine learning Trainee Internship and Explored a great knowledge in that field with practises and Real World Project.
+
+   - 05/20 - Ongoing
+   - Campus ambassader At CodingBlocks
+   - The Campus Ambassador program at Coding Blocks is aimed at identifying energetic, passionate, brilliant, like-minded College Superheroes
+     who have the zeal to take the initiative and make a mark.
+
+   - 06/20 - Ongoing
+   - Internshala Student partner
+   - A 70-day work-from-home transformational program aimed at building the leaders of tomorrow 
+     to Publish internshala in campus by its awesome functionality and usability for students.
+
+3. Services
+
+   - icon : fa fa-laptop (font awesome icon)
+   - Flutter Development
+   - Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+
+   - icon : fa fa-photo (font awesome icon)
+   - Photography
+   - Photography is the art of capturing light with a camera, usually via a digital sensor or film, to create an image.
+
+   - icon : fa fa-code (font awesome icon)
+   - Machine Learning
+   - Machine learning is an application of AI that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
+
+   - icon : fa fa-film (font awesome icon)
+   - Video Editing
+   - Video editing is the manipulation and arrangement of video shots. Video editing is used to structure and present all video information.
+
+   - icon : fa fa-desktop (font awesome icon)
+   - Web Development
+   - Web development usually refers to the main non-design aspects of building websites: writing markup and coding.
+
+   - icon : fa fa-fa-snowflake-o(font awesome icon)
+   - AI-CV Enthusiast
+   - I'm Enthusiast for Artificial Intelligence (AI) and Computer Vision ( CV ) to become a aspiring researcher in that field.
+
+4. Portfolio
+
+   - All, Web, Design, Photography, Wordpress
+
+
+5. Projects
+
+   - 4 Apr 2020
+   - Food Delivery App
+   - Developed an android and ios app of Food delivering with backend with firebase with flutter and dart.  
+   - Tags : Flutter , Firebase
+
+   - 17 May 2020
+   - Second Hand Car Price Prediction
+   - Train a Machine learning model that predict the price of old used / Second hand cars on base of Data Set .
+   - Tags : Machine Learning , Python 
+
+   - 20 July 2020
+   - Personal Portfolio Website
+   - Designed and developed a portfolio website upon my resume functions using HTML , CSS , javaScript.
+   - Tags : Html , CSS, Javascript
+
+6. Contact Me
+
+   - icon : fa fa-phone (font awesome icon)
+   - Call Me On
+   - +91 7046554565
+
+   - icon : fa fa-map-marker (font awesome icon)
+   - Address
+   - Wanakbori TPS
+
+   - icon : fa fa-envelope (font awesome icon)
+   - Email
+   - krunalsuthar345@gmail.com
+
+     Form Field
+   - Name, Email, Subject, Message, Button (Send Message) 
+
+
